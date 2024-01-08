@@ -19,28 +19,29 @@ This Flutter application allows users to read the latest news articles from vari
 
 
 
-## Demo Video
 
+[Flutter News App Instructions, Demo Video And Screenshot](https://drive.google.com/drive/folders/1d2MayNNk9gnsSmMCc5gXq8JKu4Rr-wsu)
+
+## Demo Video
 [![Watch Demo Video](Demo%20And%20Screenshot/Flutter%20News%20App%20Demo.mp4)](Demo%20And%20Screenshot/Flutter%20News%20App%20Demo.mp4)
 
 ## Screenshots
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="Demo%20And%20Screenshot/Screenshot%201.jpg" width="400" height="800" alt="Screenshot 1">
-  <img src="Demo%20And%20Screenshot/Screenshot%202.jpg" width="400" height="800" alt="Screenshot 2">
-  <img src="Demo%20And%20Screenshot/Screenshot%203.jpg" width="400" height="800" alt="Screenshot 3">
-  <img src="Demo%20And%20Screenshot/Screenshot%204.jpg" width="400" height="800" alt="Screenshot 4">
-  <img src="Demo%20And%20Screenshot/Screenshot%205.jpg" width="400" height="800" alt="Screenshot 5">
-  <img src="Demo%20And%20Screenshot/Screenshot%206.jpg" width="400" height="800" alt="Screenshot 6">
-  <img src="Demo%20And%20Screenshot/Screenshot%207.jpg" width="400" height="800" alt="Screenshot 7">
-  <img src="Demo%20And%20Screenshot/Screenshot%208.jpg" width="400" height="800" alt="Screenshot 8">
+  <img src="Demo%20And%20Screenshot/Screenshot%208.jpg" width="400" height="800" alt="Screenshot 1">
+  <img src="Demo%20And%20Screenshot/Screenshot%207.jpg" width="400" height="800" alt="Screenshot 2">
+  <img src="Demo%20And%20Screenshot/Screenshot%206.jpg" width="400" height="800" alt="Screenshot 3">
+  <img src="Demo%20And%20Screenshot/Screenshot%205.jpg" width="400" height="800" alt="Screenshot 4">
+  <img src="Demo%20And%20Screenshot/Screenshot%204.jpg" width="400" height="800" alt="Screenshot 5">
+  <img src="Demo%20And%20Screenshot/Screenshot%203.jpg" width="400" height="800" alt="Screenshot 6">
+  <img src="Demo%20And%20Screenshot/Screenshot%202.jpg" width="400" height="800" alt="Screenshot 7">
+  <img src="Demo%20And%20Screenshot/Screenshot%201.jpg" width="400" height="800" alt="Screenshot 8">
 </div>
 
 
 ## Dependencies
 
 - http: ^0.13.3
-- shared_preferences: ^2.0.8
 
 ## Configuration
 
