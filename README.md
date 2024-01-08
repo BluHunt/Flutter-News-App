@@ -17,9 +17,11 @@ This Flutter application allows users to read the latest news articles from vari
 4. Connect a device or start an emulator.
 5. Run `flutter run` to launch the app.
 
+
+
 ## Demo Video
 
-[![Watch Demo Video](Demo%20And%20Screenshot/Video%20Screenshot.jpg)](Demo%20And%20Screenshot/Flutter%20News%20App%20Demo.mp4)
+[![Watch Demo Video](Demo%20And%20Screenshot/Flutter%20News%20App%20Demo.mp4)](Demo%20And%20Screenshot/Flutter%20News%20App%20Demo.mp4)
 
 ## Screenshots
 
